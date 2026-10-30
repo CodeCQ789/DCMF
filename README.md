@@ -1,4 +1,3 @@
-# DCMF
 # Disease-Centered Multimodal Fusion with Observation-Selective Grounding Distillation for Chest X-ray Report Generation
 
 ## Overview
